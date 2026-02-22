@@ -3,7 +3,7 @@ Hi there, I’m Maame! I am a Computer Science student at Queen Mary University 
 ### Journey So Far
 * **Current Focus:** I am currently mastering Linux fundamentals and Linux System Administration.
 * **DevOps Aspirations:** I am proficient in Python and Git and am actively expanding my expertise into Docker, Kubernetes, CI/CD, and AWS.
-* **Latest Achievement:** Recently earned a Google AI badge on Dev.to for exploring LLM logic and prompt engineering.
+* **Latest Achievement:** Developed Linux-compass, a terminal-based productivity tool designed to help developers navigate and master Linux command discovery more intuitively..
 
 ---
 
