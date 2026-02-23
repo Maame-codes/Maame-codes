@@ -1,29 +1,35 @@
-Hi there, I’m Maame! I am a Computer Science student at Queen Mary University of London, focused on building scalable systems and mastering the tools that power modern infrastructure. 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=28&pause=1000&color=FF3B5C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maame!;CS+Student+%40+Queen+Mary+University;Building+Tech+that+Solve+Real-life+Problems" alt="Typing SVG" />
+  </a>
+</div>
+
+I am a Computer Science student at Queen Mary University of London, focused on building scalable systems and mastering the tools that power modern infrastructure. 
 
 ### Journey So Far
 * **Current Focus:** I am currently mastering Linux fundamentals and Linux System Administration.
-* **DevOps Aspirations:** I am proficient in Python and Git and am actively expanding my expertise into Docker, Kubernetes, CI/CD, and AWS.
-* **Latest Achievement:** Developed Linux-compass, a terminal-based productivity tool designed to help developers navigate and master Linux command discovery more intuitively..
+* **Aspirations:** I am proficient in Python and Git and am actively expanding my expertise into Docker, Kubernetes, CI/CD, and AWS.
+* **Latest Achievement:** Developed Linux-compass, a terminal-based productivity tool designed to help developers navigate and master Linux command discovery more intuitively.
 
 ---
 
 ### Tech Stack & Tools
 
-![Administration](https://img.shields.io/badge/administration-Linux%20System%20Admin-blue?style=flat-square)
-![Tool](https://img.shields.io/badge/tool-Git%20BASH-orange?style=flat-square)
-![Language](https://img.shields.io/badge/language-Python-3776AB?style=flat-square)
-![Library](https://img.shields.io/badge/library-Pandas-150458?style=flat-square)
-![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square)
-![Language](https://img.shields.io/badge/language-TypeScript-3178C6?style=flat-square)
-![Framework](https://img.shields.io/badge/framework-React.js-61DAFB?style=flat-square)
-![Runtime](https://img.shields.io/badge/runtime-Node.js-339933?style=flat-square)
-![Markup](https://img.shields.io/badge/markup-HTML-E34F26?style=flat-square)
-![Styling](https://img.shields.io/badge/styling-CSS3-1572B6?style=flat-square)
-![Styling](https://img.shields.io/badge/styling-scss-CC6699?style=flat-square)
-![Framework](https://img.shields.io/badge/framework-Tailwind%20CSS-06B6D4?style=flat-square)
-![Language](https://img.shields.io/badge/language-PHP-777BB4?style=flat-square)
-![Database](https://img.shields.io/badge/database-Oracle-F80000?style=flat-square)
-![Design](https://img.shields.io/badge/design-Adobe%20InDesign-FF3366?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git Bash](https://img.shields.io/badge/GIT%20BASH-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 ---
 
