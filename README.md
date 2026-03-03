@@ -49,11 +49,21 @@ Focused on building scalable systems and mastering the tools that power modern i
 
 ---
 
+
 ### Let's Connect!
 
 I am always looking to learn from experienced engineers and collaborate on interesting projects.
 
 * **LinkedIn:** [Maame Afua A. P. Fordjour](https://www.linkedin.com/in/maame-afua-a-p-fordjour-100585171/)
 * **Dev.to:** [Technical deep dives and project updates](https://dev.to/maame-codes)
+---
 
+### 🕹️ Contribution Lab
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maame-codes/Maame-codes/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maame-codes/Maame-codes/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maame-codes/Maame-codes/output/github-snake.svg">
+</picture>
+
+---
 > "Mastering the 'why' behind the code, one deployment at a time."
