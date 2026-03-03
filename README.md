@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=28&pause=1000&color=FF3B5C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maame!;CS+Student+%40+Queen+Mary+University;Building+Tech+that+Solve+Real-life+Problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=28&pause=1000&color=FF3B5C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Maame!;Building+Tech+that+Solve+Real-life+Problems" alt="Typing SVG" />
   </a>
 </div>
 
-I am a Computer Science student at Queen Mary University of London, focused on building scalable systems and mastering the tools that power modern infrastructure. 
+Focused on building scalable systems and mastering the tools that power modern infrastructure. 
 
 ### Journey So Far
 * **Current Focus:** I am currently mastering Linux fundamentals and Linux System Administration.
