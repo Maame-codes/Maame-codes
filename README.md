@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Focused on building scalable systems and mastering the tools that power modern infrastructure. 
+Passionate about bridging the gap between development and operations. I specialize in building scalable, resilient systems and mastering the automation tools that power the modern web. Currently exploring Docker, CI/CD pipelines, and AWS.
 
 ### Journey So Far
 * **Current Focus:** I am currently mastering Linux fundamentals and Linux System Administration.
