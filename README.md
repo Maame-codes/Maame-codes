@@ -42,11 +42,6 @@ Passionate about bridging the gap between development and operations. I speciali
 * Features automated study logging that synchronizes terminal sessions into structured Markdown files to track technical progress.
 * Developed with cross-platform compatibility for both Windows (PowerShell) and Linux environments.
 
-#### [Slide-Sift](https://github.com/Maame-codes/slide-sift)
-![status](https://img.shields.io/badge/status-Live-brightgreen?style=flat-square) ![AI](https://img.shields.io/badge/AI-LLM%20|%20Prompt%20Eng-purple?style=flat-square) ![stack](https://img.shields.io/badge/stack-TypeScript%20|%20Python-blue?style=flat-square)
-* A full-stack AI application designed to transform chaotic lecture slides (PDF/PowerPoint) into pristine, exam-ready study guides.
-* Utilizes automated text extraction and structured knowledge synthesis to optimize academic revision.
-
 ---
 
 
